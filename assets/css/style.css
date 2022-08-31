@@ -1,0 +1,13 @@
+.potrait {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.owl-carousel .owl-item .potrait img{
+    width: 50%;
+}
+
+.contact-us .info span{
+  align-items: center;
+}
