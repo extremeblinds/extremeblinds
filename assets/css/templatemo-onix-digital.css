@@ -898,7 +898,7 @@ preloader
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #ff695f;
+  background: #03a4ed;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
@@ -921,7 +921,7 @@ preloader
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #ff695f;
+  background: #03a4ed;
   border-radius: 50%;
 }
 
@@ -993,7 +993,7 @@ Banner Style
 
 .main-banner .item p {
   margin: 20px 0px;
-  background: #fff;
+  background: #e5e5e5;
   border-radius: 20px;
   padding: 15px;
 }
@@ -1010,12 +1010,12 @@ Banner Style
   text-align: center;
   line-height: 46px;
   border-radius: 50%;
-  background: rgb(255, 104, 95);
-  background: linear-gradient(
+  background: #64d536;
+  /* background: linear-gradient(
     105deg,
     rgba(255, 104, 95, 1) 0%,
     rgba(255, 144, 104, 1) 100%
-  );
+  ); */
   color: #fff;
   font-size: 20px;
 }
@@ -1787,12 +1787,7 @@ contact
   display: inline-block;
   text-align: center;
   line-height: 46px;
-  background: rgb(255, 104, 95);
-  background: linear-gradient(
-    105deg,
-    rgba(255, 104, 95, 1) 0%,
-    rgba(255, 144, 104, 1) 100%
-  );
+  background: #64d536;
   border-radius: 50%;
   color: #fff;
   font-size: 22px;
@@ -1803,7 +1798,7 @@ contact
 .contact-us .info span a {
   color: #ff685f;
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 25px;
   text-transform: none;
 }

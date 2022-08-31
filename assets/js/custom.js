@@ -20,7 +20,7 @@
     dots: false,
     nav: false,
     autoplay: true,
-    autoplayTimeout: 5000,
+    autoplayTimeout: 10000,
     margin: 0,
     responsive: {
       0: {
@@ -44,7 +44,8 @@
     dots: true,
     nav: false,
     autoplay: true,
-    margin: 5,
+    margin: 0,
+    autoplayTimeout: 10000,
     responsive: {
       0: {
         items: 1,
